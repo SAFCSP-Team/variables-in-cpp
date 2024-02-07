@@ -6,7 +6,7 @@ In this project, our main goal is to understand variables in C++.
 
 ### Problem
 
-Develop a program that applies addition, subtraction, multiplication, and division operations on two integer numbers and print the result.
+Develop a program that applies addition, subtraction, multiplication, and division operations on two integer numbers using variable concept, and print the result.
 
 ### Implementation
 - Write your code in the main function.
